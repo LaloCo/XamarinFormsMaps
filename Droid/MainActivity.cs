@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿ using System;
 using Android.App;
 using Android.Content;
 using Android.Content.PM;
@@ -21,6 +20,7 @@ namespace Maps.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+            Xamarin.FormsMaps.Init(this, bundle);
 
             LoadApplication(new App());
         }

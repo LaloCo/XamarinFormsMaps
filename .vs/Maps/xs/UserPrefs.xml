@@ -1,9 +1,10 @@
-﻿<Properties StartupConfiguration="{528A1E63-D6F3-4AE7-AC54-5B5D0AEE54DD}|Default">
+﻿<Properties StartupConfiguration="{250D2E64-EB5A-493C-A784-DDEACD0BF80A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Maps/MapsPage.xaml">
     <Files>
-      <File FileName="Maps/MapsPage.xaml" Line="9" Column="33" />
+      <File FileName="Maps/MapsPage.xaml" Line="10" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Maps.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
