@@ -50,9 +50,6 @@
 /Users/lalorosas/Projects/Maps/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/lalorosas/Projects/Maps/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/lalorosas/Projects/Maps/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/Maps.iOS.csproj.CoreCompileInputs.cache
-/Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/Maps.iOS.exe
-/Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/Maps.iOS.pdb
 /Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/ibtool/_BundleResourceWithLogicalName.items
 /Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_PartialAppManifest.items
 /Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/actool/_BundleResourceWithLogicalName.items
@@ -60,3 +57,6 @@
 /Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/coremlc/_BundleResourceWithLogicalName.items
 /Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.2/optimized/
 /Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/Maps.iOS.csprojResolveAssemblyReference.cache
+/Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/Maps.iOS.csproj.CoreCompileInputs.cache
+/Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/Maps.iOS.exe
+/Users/lalorosas/Projects/Maps/iOS/obj/iPhoneSimulator/Debug/Maps.iOS.pdb

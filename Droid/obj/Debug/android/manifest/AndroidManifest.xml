@@ -3,10 +3,17 @@
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="22" />
   <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+  <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <application android:label="Maps" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <meta-data android:name="com.google.android.geo.API_Key" android:value="AIzaSyBEYkKqrZDX4o9qv9BVMYmM11Qss9Q-DgI" />
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBEYkKqrZDX4o9qv9BVMYmM11Qss9Q-DgI" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Maps.Droid" android:theme="@style/MyTheme" android:name="md551afeb14f78091b7dcc7953e9e497c49.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -22,9 +29,7 @@
       </intent-filter>
     </receiver>
     <meta-data android:name="android.support.VERSION" android:value="25.4.0" />
-    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false" />
   </application>
-  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-feature android:glEsVersion="0x00020000" android:required="true" />
 </manifest>

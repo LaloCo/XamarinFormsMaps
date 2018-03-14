@@ -6,5 +6,6 @@
              x:Class="Maps.MapsPage">
     <maps:Map VerticalOptions="FillAndExpand"
               HorizontalOptions="FillAndExpand"
+              IsShowingUser="true"
               MapType="Street"/>
 </ContentPage>

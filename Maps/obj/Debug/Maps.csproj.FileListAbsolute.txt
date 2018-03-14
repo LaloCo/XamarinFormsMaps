@@ -16,4 +16,3 @@
 /Users/lalorosas/Projects/Maps/Maps/obj/Debug/Maps.MapsPage.xaml.g.cs
 /Users/lalorosas/Projects/Maps/Maps/obj/Debug/Maps.dll
 /Users/lalorosas/Projects/Maps/Maps/obj/Debug/Maps.pdb
-/Users/lalorosas/Projects/Maps/Maps/obj/Debug/Maps.csprojResolveAssemblyReference.cache
